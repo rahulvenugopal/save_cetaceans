@@ -1,4 +1,4 @@
-# Happy news, got the first prize in dataviz challenge. Yayy :
+# Happy news, got the first prize in dataviz challenge. Yayy :champagne:
 ![](https://raw.githubusercontent.com/rahulvenugopal/save_cetaceans/main/images/prize_winning_yayy.png)
 # Cetacean Dataset
 
