@@ -1,3 +1,5 @@
+# Happy news, got the first prize in dataviz challenge. Yayy :
+![](https://raw.githubusercontent.com/rahulvenugopal/save_cetaceans/main/images/prize_winning_yayy.png)
 # Cetacean Dataset
 
 Data for this week comes from a *The Pudding* article. 
